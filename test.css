@@ -20,7 +20,7 @@ li{
 .header-logo{
   float: left;
   font-size: 36px;
-  padding: 33px 40px;
+  padding: 20px 40px;
 }
 
 .header-list{
@@ -28,16 +28,29 @@ li{
 }
 
 .main{
-  padding: 100px 80px;
+  padding: 300px 80px;
 }
 
 .copy-container h1{
-  font-size: 140px;
+  font-size: 80px;
   color: #cccc00;
+}
+
+.copy-conntainer h2{
+  font-size: 60px;
 }
 
 .copy-container span{
   color: #ff4a4a;
+}
+
+.contents-item{
+  float: left;
+  padding: 30px 30px;
+}
+
+.contents-item p{
+  padding-bottom: 50px;
 }
 
 .footer{
